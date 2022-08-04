@@ -58,7 +58,7 @@ def update_sheets(date, time, exercise, duration, calories):
           f"Time:{response['sheet1']['time']} \n"
           f"Exercise:{response['sheet1']['exercise']} \n"
           f"Duration:{response['sheet1']['duration']} \n"
-          f"Calories: {response['sheet1']['calories']}"
+          f"Calories:{response['sheet1']['calories']}"
           )
 
 
