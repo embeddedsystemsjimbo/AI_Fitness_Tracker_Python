@@ -5,6 +5,7 @@ This Fitness Tracking app uses the Nutritionix API to determine the caloric outp
 See the following links for more detail:
 
 https://www.nutritionix.com/business/api
+
 https://sheety.co
 
 
