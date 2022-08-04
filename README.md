@@ -1,6 +1,6 @@
 # AI_Fitness_Tracker_Python
 
-This Fitness Tracking app uses the Nutritionix API to determine the caloric output of exercises input in natural English text (See Figure1). Results are automatically saved to a registered Google Sheets document using the Sheety API (See Figure2).
+This Fitness Tracking app uses the Nutritionix API to determine the caloric output of exercises input in natural English text (See Figure1). Results are automatically saved to registered Google Sheets document using the Sheety API (See Figure2).
 
 See the following links for more detail:
 
